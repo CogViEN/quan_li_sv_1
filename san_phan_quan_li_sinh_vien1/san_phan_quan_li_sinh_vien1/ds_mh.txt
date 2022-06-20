@@ -1,0 +1,5 @@
+KCN11,Lap Trinh C,2,1
+KCN22,Huong Doi Tuong,3,0
+KCN33,Cau Truc Du Lieu,3,1
+KTC11,Mac,3,0
+KTC22,Toan Roi Rac,2,1

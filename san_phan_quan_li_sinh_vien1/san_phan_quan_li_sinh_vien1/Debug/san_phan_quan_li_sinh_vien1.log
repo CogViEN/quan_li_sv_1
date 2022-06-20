@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\san_phan_quan_li_sinh_vien1\san_phan_quan_li_sinh_vien1\xu_li_de.h(494): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\san_phan_quan_li_sinh_vien1\san_phan_quan_li_sinh_vien1\xu_li_de.h(659): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\san_phan_quan_li_sinh_vien1\san_phan_quan_li_sinh_vien1\xu_li_de.h(671): warning C4018: '<': signed/unsigned mismatch
+  san_phan_quan_li_sinh_vien1.vcxproj -> C:\Users\Administrator\source\repos\san_phan_quan_li_sinh_vien1\Debug\san_phan_quan_li_sinh_vien1.exe
